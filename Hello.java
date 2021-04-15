@@ -3,5 +3,7 @@ public class Hello {
         System.out.println("Hello");
         System.out.print("World");
         System.out.print("Hi~");
+        
+        int x = 10;
     }
 }
