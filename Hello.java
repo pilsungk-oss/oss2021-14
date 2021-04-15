@@ -5,5 +5,7 @@ public class Hello {
         System.out.print("Hi~");
         
         int x = 50;
+
+        System.out.print("Main branch");
     }
 }
