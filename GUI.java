@@ -1,5 +1,5 @@
 public class GUI {
-  public static void main(String[] args) {
-    System.out.println("GUI.java"); 
+  public String toString() {
+    return "GUI.java"; 
   }
 }

@@ -1,5 +1,5 @@
 public class World {
-  public static void main(String[] args) {
-    System.out.println("World.java: World"); 
+  public String toString() {
+    return "World.java: World"; 
   }
 }
